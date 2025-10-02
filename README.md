@@ -3,3 +3,8 @@
 This is READE.
 - item1
 - item2
+
+## part 2
+1. monday
+1. tuseday 
+1. wednesday
